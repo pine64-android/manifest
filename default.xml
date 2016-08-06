@@ -322,6 +322,7 @@
   <project path="frameworks/webview" name="platform/frameworks/webview" groups="pdk-cw-fs" />
   <project path="frameworks/wilhelm" name="frameworks-wilhelm" remote="github" revision="a64" groups="pdk-cw-fs" />
   <project path="hardware/akm" name="platform/hardware/akm" />
+  <project path="hardware/aw" name="hardware-aw" remote="github" revision="a64" groups="pdk" />
   <project path="hardware/broadcom/libbt" name="hardware-broadcom-libbt" remote="github" revision="a64" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="hardware-broadcom-wlan" remote="github" revision="a64" groups="broadcom_wlan" />
   <project path="hardware/intel/audio_media" name="platform/hardware/intel/audio_media" groups="intel" />
